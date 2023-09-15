@@ -46,3 +46,4 @@ Periodically, we may refine our Privacy Policy. Any alterations will be posted o
 ## Contact Us
 
 For inquiries about this Privacy Policy, please reach out to us at [info@etxo.app](mailto:info@etxo.io).
+
